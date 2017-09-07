@@ -7,3 +7,5 @@
 > #### Controller - View와 Model을 연결해주는 부분
 
 ### MVC 패턴이 많이 쓰이는 이유는 디자이너는 Model 부분을 신경쓰지 않고 View부분만 집중하여 개발 할 수 있고, 프로그래머는 View부분을 신경쓰지 않고 Model 부분만 신경쓸 수 있기 때문이다.
+
+![MVC 파일](./img/MVC.png)
